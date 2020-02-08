@@ -1,3 +1,7 @@
+/*
+Using Aho Corasick algorithm to solve this problem
+*/
+
 #include <bits/stdc++.h>
 #include <iostream>
 #include <unordered_map>
