@@ -1,3 +1,7 @@
+/*
+https://www.hackerrank.com/challenges/magic-square-forming/problem
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
