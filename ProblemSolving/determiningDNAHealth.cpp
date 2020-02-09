@@ -1,5 +1,6 @@
 /*
 using Aho Corasick algorithm
+https://www.hackerrank.com/challenges/determining-dna-health/problem
 */
 
 
