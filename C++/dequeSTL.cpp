@@ -1,3 +1,8 @@
+/*
+https://www.hackerrank.com/challenges/deque-stl/problem
+*/
+
+
 #include <iostream>
 #include <deque> 
 using namespace std;
