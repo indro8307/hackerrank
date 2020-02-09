@@ -1,4 +1,7 @@
-/*Write the class AddElements here*/
+/*
+https://www.hackerrank.com/challenges/c-class-templates/problem
+*/
+
 
 template <class T>
 class AddElements
