@@ -1,3 +1,8 @@
+/*
+https://www.hackerrank.com/challenges/attribute-parser/problem
+*/
+
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
